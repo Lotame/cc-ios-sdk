@@ -1,0 +1,5 @@
+build/
+CrowdControl.xcodeproj/xcuserdata*
+CrowdControl.xcodeproj/project.xcworkspace/xcuserdata*
+CrowdControl.xcodeproj/project.xcworkspace/xcshareddata/CrowdControl.xccheckout
+.DS_Store
